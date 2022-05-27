@@ -1,7 +1,8 @@
 # FastAPI Audio Book Generator( Text To Speech)
-Project showing how to return files in FastAPI
+we are building an audio book generator i.e. an API that Converts text input to audio (speech synthesis) with an option to save the audio locally .
+With that we want to show how to return files(image,audio,video) in **FastAPI** 
 
-This demo project is all about how to return files e.g. image, audio, video etc in FASTAPI.
+
 
 The Project exposes three routes:
 
